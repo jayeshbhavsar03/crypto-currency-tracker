@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    background-color: #CAF0F8;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body, h1, h2, h3, h4, h5, h6, p{
+    margin: 0px;
+}
+
+.d-inline{
+    display: inline;
+}
+
+nav{
+    background-color: #FFFFFF;
+    padding: 0.5rem;
+}
+
+.f-right{
+    float: right;
+}
+
+.f-left{
+    float: left;
+}
+
+.nav-button{
+    background-color: #FFFFFF;
+    border-color: #03045E;
+    border-radius: 5px;
+    padding: 0.25rem 1rem 0.25rem;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.25s;
+    margin-top: 0.25rem;
+}
+
+.nav-button:hover{
+    background-color: #03045E;
+    color: #FFFFFF;
+}
+
+.logo-img{
+    height: 2rem;
+}
+
+.title{
+    font-size: 1.7rem;
+    vertical-align: top;
+    margin-left: 0.5rem;
+    color: #03045E;
+}
+
+.ml-1{
+    margin-left: 1rem;
+}
+
+.ml-2{
+    margin-left: 2rem;
+}
+
+.ml-5{
+    margin-left: 5rem;
+}
+
+.mr-1{
+    margin-right: 1rem;
+}
+
+.mr-2{
+    margin-right: 2rem;
+}
+
+.mr-5{
+    margin-right: 5rem;
+}
+
+.mb-1{
+    margin-bottom: 1rem;
+}
+
+.mt-1{
+    margin-top: 1rem;
+}
+
+.mt-2{
+    margin-top: 2rem;
+}
+
+.mt-2{
+    margin-top: 2rem;
+}
+
+.mt-5{
+    margin-top: 5rem;
+}
+
+.mt-10{
+    margin-top: 10rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.color-blue{
+    color: #03045E;
+}
+
+.card{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+
+footer{
+    background-color: #FFFFFF;
+}
+
+.foot-para{
+    text-align: center;
+    padding: 1rem;
+}
+
+#main-title{
+    cursor: pointer;
+}

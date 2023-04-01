@@ -1,0 +1,29 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.main-img{
+    width: calc(25% - 4rem);
+    padding: 2rem;
+}
+
+.main-content{
+    width: calc(75% - 6rem);
+    padding: 3rem;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.price-chart-section{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#coin-description{
+    text-align: justify;
+}
+
